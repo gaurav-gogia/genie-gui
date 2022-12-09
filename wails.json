@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "genie-gui",
+  "outputfilename": "genie-gui",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Gaurav Gogia",
+    "email": "16029099+gaurav-gogia@users.noreply.github.com"
+  }
+}
